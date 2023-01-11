@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 class insertionsort
 {
-	public static void sort(int []a,int l)
+	public static void sort(int a[],int l)
 	{
 		for(int i=1;i<l;i++)
 		{
